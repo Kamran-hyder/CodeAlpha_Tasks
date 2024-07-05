@@ -1,0 +1,19 @@
+words = [
+    "mazda",
+    "jeep",
+    "trunk",
+    "bmw",
+    "chevrolet",
+    "lamborghini",
+    "hyundai",
+    "tesla",
+    "ferrari",
+    "volkswagen",
+    "bugatti",
+    "porsche",
+    "kia",
+    "subaru",
+    "jaguar",
+    "audi",
+    "bentley"
+]
